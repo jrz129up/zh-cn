@@ -113,6 +113,7 @@
   min-width: 120px;
   // padding-right: 25px;
   line-height: 1;
+  white-space: nowrap;
 
   @include breakpoint($large) {
     display: block;
