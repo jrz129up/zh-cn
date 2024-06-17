@@ -21,27 +21,27 @@ redirect_from:
 
  <!-- 我已经发表 20+ 篇学术论文<a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
-我的研究领域包括：
-- 中国政治体制下制度安排与经济发展的关系。
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+我的研究领域是中国政治体制下基层制度与社会发展的关系，这包括：
+- 探究基层制度的有效性，即是否能实现福利的最大化，或至少能实现福利改进
+  - 基层组织与社会福利目标
+  - 福利的测度
+  - 基层制度影响福利的因果机制
+- 制度失效背景下的外生激励与制度变迁
+  - 外生激励的异质性与最优激励组合
+  - 如何变外生为内生，以实现可持续发展
+
   
 现阶段，我主要在思考“如何可持续地帮助社区形成有效的非正式制度”。
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2022.09 - 2025.06(expected)*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 中国人民大学 农业与农村发展学院, 农村发展, 硕士 
+- *2018.09 - 2022.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 北京交通大学 经济管理学院, 经济学, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 论文
 
 ### 英文
 ---
