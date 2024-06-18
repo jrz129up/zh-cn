@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="font-size:20px;">我现在就读于中国人民大学农业与农村发展学院农村发展专业，师从[马九杰](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/299c34878e4d4d5d8b5878fdd743df0d.htm)教授</span>   
-
+<span style="font-size:18px;">我现在就读于中国人民大学农业与农村发展学院农村发展专业，师从[马九杰](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/299c34878e4d4d5d8b5878fdd743df0d.htm)教授</span>   
+<br>
+<br>
  <!-- 我已经发表 20+ 篇学术论文<a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 我的研究兴趣是**中国特色社会主义政治背景下基层制度与社会发展的关系**，这包括：
@@ -42,14 +43,6 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文
-
- <!-- ### 英文
----
-
-
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
- -->
 
 ### 中文
 ---
