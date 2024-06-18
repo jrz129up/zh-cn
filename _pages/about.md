@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="font-size:20px;">我现在就读于中国人民大学农业与农村发展学院农村发展专业，师从[马九杰](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/299c34878e4d4d5d8b5878fdd743df0d.htm)教授</span>
-\\
+<span style="font-size:20px;">我现在就读于中国人民大学农业与农村发展学院农村发展专业，师从[马九杰](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/299c34878e4d4d5d8b5878fdd743df0d.htm)教授</span>   
 
  <!-- 我已经发表 20+ 篇学术论文<a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
