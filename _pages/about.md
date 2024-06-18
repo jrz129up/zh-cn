@@ -36,7 +36,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2022.09 - 2025.06(expected)*, <a href="https://www.ruc.edu.cn/"><img class="svg" src="/images/Renmin_University_of_China_logo.svg" width="23pt"></a> 中国人民大学 农业与农村发展学院, 农村发展, 硕士 
+- *2022.09 - 2025.06(expected)*, <a href="https://www.ruc.edu.cn/"><img class="svg" src="/images/Renmin_University_of_China_logo.svg" width="21pt"></a> 中国人民大学 农业与农村发展学院, 农村发展, 硕士 
 - *2018.09 - 2022.06*, <a href="https://www.bjtu.edu.cn/"><img class="svg" src="/images/BJTU_emblem.svg" width="20pt"></a> 北京交通大学 经济管理学院, 经济学, 本科
  
 <span class='anchor' id='-lwzl'></span>
@@ -74,10 +74,4 @@ redirect_from:
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 
-<span class='anchor' id='-xshy'></span>
-
-# 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
 
