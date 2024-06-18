@@ -31,15 +31,15 @@ redirect_from:
   - 外生激励的异质性与最优激励组合
   - 如何变外生为内生，以实现可持续发展
 
-  
+<br>
 现阶段，我主要在思考**“如何可持续地帮助社区形成有效的非正式制度”**。
-
+<br>
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
 - *2022.09 - 2025.06(expected)*, <a href="https://www.ruc.edu.cn/"><img class="svg" src="/images/Renmin_University_of_China_logo.svg" width="21pt"></a> 中国人民大学 农业与农村发展学院, 农村发展, 硕士 
 - *2018.09 - 2022.06*, <a href="https://www.bjtu.edu.cn/"><img class="svg" src="/images/BJTU_emblem.svg" width="21pt"></a> 北京交通大学 经济管理学院, 经济学, 本科
- 
+<br>
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文
