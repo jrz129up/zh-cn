@@ -49,22 +49,29 @@ redirect_from:
 ### 中文
 ---
 
-- 	焦敬娟,张齐林,吴宇勇,江润泽,王姣娥.中国异地投资网络结构演化及影响因素研究.地理科学进展,2021. (核心期刊)  [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdpYllT2xqHJRoxXcKTqVmXr4DtD6ltlH0CYLHwYvyjgm5ybiN0I3myBH_17MYu1KmSN1ftxJqErAFzasLI2IVRl5E5TScazfT91ACYsGHIvu6mYIRAMLyZ1H1MBs-DnPZzWetM5qrWazQ==&uniplatform=NZKPT&language=CHS)
-- 	王超,江润泽,梁景玉,等.北京地铁票制票价调整空间及方式研究[J].综合运输,2020. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdrdk-T8GIsXuASAVU4iqRt6ZFgldxcDvkNnq-P4MpAAvTu-ilkeUUBW9tyJwd7-F03_h2QJeyfI7w57IX-5-dedSRwFEZknT9S4DpWXoLVtM6JNqpCfcCpEg3hhInWU56GEOwAOXae-1A==&uniplatform=NZKPT&language=CHS)
+- 	焦敬娟,张齐林,吴宇勇,**江润泽**,王姣娥.中国异地投资网络结构演化及影响因素研究.地理科学进展,2021 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdpYllT2xqHJRoxXcKTqVmXr4DtD6ltlH0CYLHwYvyjgm5ybiN0I3myBH_17MYu1KmSN1ftxJqErAFzasLI2IVRl5E5TScazfT91ACYsGHIvu6mYIRAMLyZ1H1MBs-DnPZzWetM5qrWazQ==&uniplatform=NZKPT&language=CHS)
+- 	王超,**江润泽**,梁景玉,等.北京地铁票制票价调整空间及方式研究.综合运输,2020 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdrdk-T8GIsXuASAVU4iqRt6ZFgldxcDvkNnq-P4MpAAvTu-ilkeUUBW9tyJwd7-F03_h2QJeyfI7w57IX-5-dedSRwFEZknT9S4DpWXoLVtM6JNqpCfcCpEg3hhInWU56GEOwAOXae-1A==&uniplatform=NZKPT&language=CHS)
 
 ### 工作论文
 ---
 
-- 
-
-
+#### 英文
+- QL Zhang, \underline{\textbf{Runze Jiang}}, JJ Jiao. Agglomeration and Dispersion Effects of High-speed Rail: A New Perspective of Intercity Labour Migration from China
+  这篇论文
+#### 中文
+- 江润泽,马九杰.物质激励能促进规范违背吗？——来自全国治理积分制的证据
+  - 
+- 江润泽.浅尝辄止: 社会科学研究的数据处理手册——原理与代码
+  - 写作本手册的初衷是因为
 
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`
+- *2023.06-2024.06* 中国人民大学农业与农村发展学院研究生会及学术部主席
+- *2023.11*  二等学业奖学金
+- *2022.11*  二等学业奖学金
+- *2021.04*  物流竞赛全国二等奖
+- *2020.05*  市场调研竞赛全国三等奖
 
 <span class='anchor' id='-ryjx'></span>
 
