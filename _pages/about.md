@@ -45,7 +45,7 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文
-
+<br>
 ### 中文
 ---
 
@@ -59,6 +59,8 @@ redirect_from:
 
 - QL Zhang, \underline{\textbf{Runze Jiang}}, JJ Jiao. Agglomeration and Dispersion Effects of High-speed Rail: A New Perspective of Intercity Labour Migration from China
   这篇论文
+<br>
+
 #### 中文
 
 - 江润泽,马九杰.物质激励能促进规范违背吗？——来自全国治理积分制的证据
