@@ -56,13 +56,21 @@ redirect_from:
 ---
 
 #### 英文
+
 - QL Zhang, \underline{\textbf{Runze Jiang}}, JJ Jiao. Agglomeration and Dispersion Effects of High-speed Rail: A New Perspective of Intercity Labour Migration from China
   这篇论文
 #### 中文
+
 - 江润泽,马九杰.物质激励能促进规范违背吗？——来自全国治理积分制的证据
-  - 
+  - 研究结论：物质激励并不利于人们违背无效规范，基层的组织能力才是主要因素
+  - 数据来源与研究方法：实地调研58个村庄并利用Python与JS爬取为村平台数据
+  - 未来拓展
+    - 下一步研究打算采用RCT，第一组是科斯组（市场化交易组），第二组是布鲁诺组（公共物品为外生激励组），第三组是混合组，第四组是控制组
+    - 第一组与第二组的差在本质上是在论证，公共领域内，到底是市场更优，还是确权前提下的集体主义制度更优
+    - 第三组是中国特色社会主义的一个写照
 - 江润泽.浅尝辄止: 社会科学研究的数据处理手册——原理与代码
   - 写作本手册的初衷是因为
+  - 涉及的领域
 
 <span class='anchor' id='-ryjx'></span>
 
