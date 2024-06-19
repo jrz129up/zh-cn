@@ -49,13 +49,13 @@ redirect_from:
 ### 中文
 ---
 
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000)
-
+- 	焦敬娟,张齐林,吴宇勇,江润泽,王姣娥.中国异地投资网络结构演化及影响因素研究.地理科学进展,2021. (核心期刊)  [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdpYllT2xqHJRoxXcKTqVmXr4DtD6ltlH0CYLHwYvyjgm5ybiN0I3myBH_17MYu1KmSN1ftxJqErAFzasLI2IVRl5E5TScazfT91ACYsGHIvu6mYIRAMLyZ1H1MBs-DnPZzWetM5qrWazQ==&uniplatform=NZKPT&language=CHS)
+- 	王超,江润泽,梁景玉,等.北京地铁票制票价调整空间及方式研究[J].综合运输,2020. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdrdk-T8GIsXuASAVU4iqRt6ZFgldxcDvkNnq-P4MpAAvTu-ilkeUUBW9tyJwd7-F03_h2QJeyfI7w57IX-5-dedSRwFEZknT9S4DpWXoLVtM6JNqpCfcCpEg3hhInWU56GEOwAOXae-1A==&uniplatform=NZKPT&language=CHS)
 
 ### 工作论文
 ---
 
+- 
 
 
 
