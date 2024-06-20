@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Runze Jiang"
-description              : "Politics, Institution and Development"
+title                    : "江润泽"
+description              : "政治、制度与发展"
 repository               : "jrz129up/jrz129upzhcn.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Runze Jiang"
+  name             : "江润泽"
   avatar           : "/images/jrzavatar.PNG"
-  bio              : "Renmin University of China"
-  location         : "Haidian District, Beijing"
+  bio              : "中国人民大学"
+  location         : "北京海淀"
   employer         : 
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
