@@ -81,7 +81,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 200px;
+  width: 190px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -94,7 +94,7 @@
   img {
     max-width: 300px;
     min-width: 150px;
-    width: 100%; 
+    width: 90%; 
     border-radius: 0;
     padding: 0; // 移除内边距
     border: none; // 移除边框
