@@ -42,7 +42,7 @@ redirect_from:
 - *2018.09 - 2022.06*, <a href="https://www.bjtu.edu.cn/"><img class="svg" src="/images/BJTU_emblem.svg" width="21pt"></a> 北京交通大学 经济管理学院, 经济学, 本科
 <br>
 <br>
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-lw'></span>
 
 # 📝 论文
 
@@ -92,7 +92,7 @@ redirect_from:
 - *2021.04*    &nbsp;&nbsp;第七届“中国外运杯”全国大学生物流设计大赛 全国二等奖
 - *2021.04*    &nbsp;&nbsp;“正大杯”第十一届全国大学生市场调查与分析大赛 全国三等奖
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='-grjl'></span>
 
 # 📄 个人简历
 
