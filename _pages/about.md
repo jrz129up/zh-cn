@@ -45,25 +45,23 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文
-<br>
-### 中文
----
+
+### 已发票论文
 
 - 	焦敬娟,张齐林,吴宇勇,**江润泽**,王姣娥.中国异地投资网络结构演化及影响因素研究.地理科学进展,2021 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdpYllT2xqHJRoxXcKTqVmXr4DtD6ltlH0CYLHwYvyjgm5ybiN0I3myBH_17MYu1KmSN1ftxJqErAFzasLI2IVRl5E5TScazfT91ACYsGHIvu6mYIRAMLyZ1H1MBs-DnPZzWetM5qrWazQ==&uniplatform=NZKPT&language=CHS)
 - 	王超,**江润泽**,梁景玉,等.北京地铁票制票价调整空间及方式研究.综合运输,2020 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdrdk-T8GIsXuASAVU4iqRt6ZFgldxcDvkNnq-P4MpAAvTu-ilkeUUBW9tyJwd7-F03_h2QJeyfI7w57IX-5-dedSRwFEZknT9S4DpWXoLVtM6JNqpCfcCpEg3hhInWU56GEOwAOXae-1A==&uniplatform=NZKPT&language=CHS)
 
-### 工作论文
----
-
-#### 英文
-
-- QL Zhang, **Runze Jiang**, JJ Jiao. Agglomeration and Dispersion Effects of High-speed Rail: A New Perspective of Intercity Labour Migration from China
-  
 <br>
 
-#### 中文
+### 工作论文
 
-- 江润泽,马九杰.物质激励能促进规范违背吗？——来自全国治理积分制的证据
+- QL Zhang, **Runze Jiang**, JJ Jiao. Agglomeration and Dispersion Effects of High-speed Rail: A New Perspective of Intercity Labour Migration from China
+  - 研究结论：高铁开通促进了城际人口不对称流动，但是
+  - 数据来源与研究方法：
+  - 研究贡献：
+<br>
+
+- **江润泽**,马九杰.物质激励能促进规范违背吗？——来自全国治理积分制的证据
   - 研究结论：物质激励并不利于人们违背无效规范，基层的组织能力才是主要因素
   - 数据来源与研究方法：实地调研58个村庄收集质性资料，形成对积分制运行的基本了解，构建理论模型；利用Python与JS爬取为村平台数据，获取公共行为、基层组织等数据，并形成月度面板，进行回归分析；
   - 研究贡献
@@ -71,12 +69,12 @@ redirect_from:
     - 从方法的角度说，在中国基层语境中证明了物质激励对动机挤出
     - 从主体的角度说，探讨了自治背景下基层组织，特别是拥有实权的党派组织，在公共产品生产中的重要作用
   - 未来拓展
-    - 下一步研究打算采用RCT，第一组是科斯组（市场化交易组），第二组是布鲁诺组（公共物品为外生激励组），第三组是混合组，第四组是控制组
+    - 下一步研究将采用RCT，共分为四组，第一组是科斯组（市场化交易组），第二组是布鲁诺组（以公易公组），第三组是混合组，第四组是控制组
     - 第一组与第二组的差在本质上是在论证，公共领域内，到底是市场更优，还是确权前提下的集体主义制度更优；第三组是中国特色社会主义的一个写照
     - 通过对比不仅能证明公共行为领域内，到底是哪一种资源分配方式更优；往更宏观说，这是在论证不同制度的优劣之处
    
 <br>
-- 江润泽.浅尝辄止: 社会科学研究的数据处理手册——原理与代码
+- **江润泽**.浅尝辄止: 社会科学研究的数据处理手册——原理与代码
   - 写作本手册的初衷是陈述对计算机的简约理解，记录在社科研究中进行数据处理的过程，总结运用计算机处理数据的经验，在此基础上形成一般化的经验并成书推广；就算最终无法出版成书，本书也能成为小范围内（例如一个师门）数据处理的指导手册
   - 涉及领域包括基本的计算机科学（计算机组成原理，操作系统，数据结构与算法及计算机网络）；网络爬虫；数据清洗；计量经济学；机器学习。目前主要在撰写前两部分
   - 运用Python与JavaScript实现上述不同场景需求的具体代码
