@@ -38,8 +38,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2022.09 - 2025.06(expected)*, <a href="https://www.ruc.edu.cn/"><img class="svg" src="/images/Renmin_University_of_China_logo.svg" width="21pt"></a> 中国人民大学 农业与农村发展学院, 农林经济管理, 硕士 
-- *2018.09 - 2022.06*, <a href="https://www.bjtu.edu.cn/"><img class="svg" src="/images/BJTU_emblem.svg" width="21pt"></a> 北京交通大学 经济管理学院, 经济学, 本科
+- *2022.09 - 2025.06(expected)*, <a href="https://www.ruc.edu.cn/"><img class="svg" src="/zh-cn/images/Renmin_University_of_China_logo.svg" width="21pt"></a> 中国人民大学 农业与农村发展学院, 农林经济管理, 硕士 
+- *2018.09 - 2022.06*, <a href="https://www.bjtu.edu.cn/"><img class="svg" src="/zh-cn/images/BJTU_emblem.svg" width="21pt"></a> 北京交通大学 经济管理学院, 经济学, 本科
 <br>
 <br>
 <span class='anchor' id='-lw'></span>
