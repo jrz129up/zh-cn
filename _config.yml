@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "江润泽"
-  avatar           : "/images/jrzavatar.PNG"
+  avatar           : "/zh-cn/images/jrzavatar.PNG"
   bio              : "中国人民大学"
   location         : "北京海淀"
   employer         : 
